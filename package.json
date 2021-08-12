@@ -55,7 +55,7 @@
     "dependencies": {
         "check-update-github": "^0.0.4",
         "colors": "^1.4.0",
-        "epicgames-client": "Revadike/node-epicgames-client#develop",
+        "epicgames-client": "labsin/node-epicgames-client#develop",
         "tracer": "^1.0.3"
     }
 }
